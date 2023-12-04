@@ -1,0 +1,42 @@
+1180985839879209052
+Author: mineomi
+Content: Discord Developers #developer-news
+Number of attachments: 0
+
+
+1180986021027008522
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1180986021958131842
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1180986022968958996
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1180986023866536043
+Author: ServerGuardian
+Content: Processing channel: ogólny
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 0
+Number of attachments: 0
+
+

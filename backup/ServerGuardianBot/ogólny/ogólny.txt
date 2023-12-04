@@ -1,0 +1,1257 @@
+1180493792307060756
+Author: ServerGuardian
+Content: 
+Number of attachments: 0
+
+
+1180500700954886144
+Author: mineomi
+Content: Cos
+Number of attachments: 0
+
+
+1180503091733340200
+Author: ServerGuardian
+Content: Sam jesteś dupa
+Number of attachments: 0
+
+
+1180505064708767915
+Author: ServerGuardian
+Content: Sam jesteś dupa
+Number of attachments: 0
+
+
+1180570524527632444
+Author: mineomi
+Content: 
+Number of attachments: 1
+
+
+1181246593459048558
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181246594528591943
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181246596697038988
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 5
+Number of attachments: 0
+
+
+1181246597745610752
+Author: ServerGuardian
+Content: Processing channel: ogólny
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 9
+Number of attachments: 0
+
+
+1181253092109463572
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181253093183197327
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181253093908820020
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 5
+Number of attachments: 0
+
+
+1181253097813704875
+Author: ServerGuardian
+Content: Processing channel: ogólny
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 13
+Number of attachments: 0
+
+
+1181253320619335811
+Author: mineomi
+Content: Thread1
+Number of attachments: 0
+
+
+1181253481919696946
+Author: mineomi
+Content: Thread2
+Number of attachments: 0
+
+
+1181253774006829167
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 0
+Number of attachments: 0
+
+
+1181253775260917840
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181253776787656774
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 5
+Number of attachments: 0
+
+
+1181253778884792332
+Author: ServerGuardian
+Content: Processing channel: ogólny
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 19
+Number of attachments: 0
+
+
+1181308707406098485
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181308709020905492
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181308710300160000
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 5
+Number of attachments: 0
+
+
+1181308712502181908
+Author: ServerGuardian
+Content: Processing channel: ogólny
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 23
+Number of attachments: 0
+
+
+1181308715320758272
+Author: ServerGuardian
+Content: Processing channel: Thread1
+`ogólny\`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181308717174636655
+Author: ServerGuardian
+Content: Processing channel: Thread2
+`ogólny\`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181309173988868229
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181309175666573426
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181309176543182859
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 5
+Number of attachments: 0
+
+
+1181309179185614940
+Author: ServerGuardian
+Content: Processing channel: ogólny
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 29
+Number of attachments: 0
+
+
+1181309181177892934
+Author: ServerGuardian
+Content: Processing channel: Thread1
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181309183266656296
+Author: ServerGuardian
+Content: Processing channel: Thread2
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181309999553728542
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 0
+Number of attachments: 0
+
+
+1181310000547766354
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181310001470513246
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 5
+Number of attachments: 0
+
+
+1181310003060146288
+Author: ServerGuardian
+Content: Processing channel: ogólny
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 35
+Number of attachments: 0
+
+
+1181310005388001550
+Author: ServerGuardian
+Content: Processing channel: Thread1
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 0
+Number of attachments: 0
+
+
+1181310007573233774
+Author: ServerGuardian
+Content: Processing channel: Thread2
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181310425791479978
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181310426793922580
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181310427796353055
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 5
+Number of attachments: 0
+
+
+1181310429893505165
+Author: ServerGuardian
+Content: Processing channel: ogólny
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 0
+Number of attachments: 0
+
+
+1181310432036790443
+Author: ServerGuardian
+Content: Processing channel: Thread1
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181310434775679108
+Author: ServerGuardian
+Content: Processing channel: Thread2
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181312522956046409
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181312524457615420
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181312525808193686
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 5
+Number of attachments: 0
+
+
+1181312527917908128
+Author: ServerGuardian
+Content: Processing channel: ogólny
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 47
+Number of attachments: 0
+
+
+1181312531000721449
+Author: ServerGuardian
+Content: Processing channel: Thread1
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181312533257261118
+Author: ServerGuardian
+Content: Processing channel: Thread2
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181316403001827328
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181316404155252848
+Author: ServerGuardian
+Content: Processing channel: Thread1
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\rules`
+
+Total messages retrieved thus far: 0
+Number of attachments: 0
+
+
+1181316405220610058
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181316406197887056
+Author: ServerGuardian
+Content: Processing channel: Thread1
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\moderator-only`
+
+Total messages retrieved thus far: 0
+Number of attachments: 0
+
+
+1181316408429260840
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 0
+Number of attachments: 0
+
+
+1181316409561710613
+Author: ServerGuardian
+Content: Processing channel: Thread1
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\discord-announcements`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181316428893261879
+Author: ServerGuardian
+Content: Processing channel: ogólny
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 56
+Number of attachments: 0
+
+
+1181316433506996264
+Author: ServerGuardian
+Content: Processing channel: Thread1
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181320872213106738
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181320873454604299
+Author: ServerGuardian
+Content: Processing channel: Zdarzenia
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\rules`
+
+Total messages retrieved thus far: 22
+Number of attachments: 0
+
+
+1181320874813567068
+Author: ServerGuardian
+Content: Processing channel: Najbliższe podróże
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\rules`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181320878777188444
+Author: ServerGuardian
+Content: Processing channel: Partia KO
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\rules`
+
+Total messages retrieved thus far: 26
+Number of attachments: 0
+
+
+1181320881004351538
+Author: ServerGuardian
+Content: Processing channel: Thread1
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\rules`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181320883307024515
+Author: ServerGuardian
+Content: Processing channel: Wspinaczka
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\rules`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181320885248999474
+Author: ServerGuardian
+Content: Processing channel: inspiracje
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\rules`
+
+Total messages retrieved thus far: 0
+Number of attachments: 0
+
+
+1181320887291617341
+Author: ServerGuardian
+Content: Processing channel: Sozologia (dla zjebków eko)
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\rules`
+
+Total messages retrieved thus far: 41
+Number of attachments: 0
+
+
+1181320906883207260
+Author: ServerGuardian
+Content: Processing channel: Trzecia droga
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\rules`
+
+Total messages retrieved thus far: 13
+Number of attachments: 0
+
+
+1181320908816781372
+Author: ServerGuardian
+Content: Processing channel: Pis
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\rules`
+
+Total messages retrieved thus far: 15
+Number of attachments: 0
+
+
+1181320910507098206
+Author: ServerGuardian
+Content: Processing channel: Umiejętności
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\rules`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181320913061417060
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181320915376681093
+Author: ServerGuardian
+Content: Processing channel: Zdarzenia
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\moderator-only`
+
+Total messages retrieved thus far: 22
+Number of attachments: 0
+
+
+1181320917817765898
+Author: ServerGuardian
+Content: Processing channel: Najbliższe podróże
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\moderator-only`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181320920980275232
+Author: ServerGuardian
+Content: Processing channel: Partia KO
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\moderator-only`
+
+Total messages retrieved thus far: 0
+Number of attachments: 0
+
+
+1181320923329073212
+Author: ServerGuardian
+Content: Processing channel: Thread1
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\moderator-only`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181320941339410443
+Author: ServerGuardian
+Content: Processing channel: Wspinaczka
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\moderator-only`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181320943486914570
+Author: ServerGuardian
+Content: Processing channel: inspiracje
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\moderator-only`
+
+Total messages retrieved thus far: 6
+Number of attachments: 0
+
+
+1181320945693106286
+Author: ServerGuardian
+Content: Processing channel: Sozologia (dla zjebków eko)
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\moderator-only`
+
+Total messages retrieved thus far: 41
+Number of attachments: 0
+
+
+1181320947844784228
+Author: ServerGuardian
+Content: Processing channel: Trzecia droga
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\moderator-only`
+
+Total messages retrieved thus far: 13
+Number of attachments: 0
+
+
+1181320951368003594
+Author: ServerGuardian
+Content: Processing channel: Pis
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\moderator-only`
+
+Total messages retrieved thus far: 15
+Number of attachments: 0
+
+
+1181320954324975737
+Author: ServerGuardian
+Content: Processing channel: Umiejętności
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\moderator-only`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181320956275347537
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 5
+Number of attachments: 0
+
+
+1181320958808698901
+Author: ServerGuardian
+Content: Processing channel: Zdarzenia
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\discord-announcements`
+
+Total messages retrieved thus far: 22
+Number of attachments: 0
+
+
+1181320961694376047
+Author: ServerGuardian
+Content: Processing channel: Najbliższe podróże
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\discord-announcements`
+
+Total messages retrieved thus far: 0
+Number of attachments: 0
+
+
+1181320980375801856
+Author: ServerGuardian
+Content: Processing channel: Partia KO
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\discord-announcements`
+
+Total messages retrieved thus far: 0
+Number of attachments: 0
+
+
+1181320982468771881
+Author: ServerGuardian
+Content: Processing channel: Thread1
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\discord-announcements`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181320983542505593
+Author: ServerGuardian
+Content: Processing channel: Wspinaczka
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\discord-announcements`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181320985429946432
+Author: ServerGuardian
+Content: Processing channel: inspiracje
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\discord-announcements`
+
+Total messages retrieved thus far: 6
+Number of attachments: 0
+
+
+1181320987917160489
+Author: ServerGuardian
+Content: Processing channel: Sozologia (dla zjebków eko)
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\discord-announcements`
+
+Total messages retrieved thus far: 41
+Number of attachments: 0
+
+
+1181320990425354240
+Author: ServerGuardian
+Content: Processing channel: Trzecia droga
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\discord-announcements`
+
+Total messages retrieved thus far: 13
+Number of attachments: 0
+
+
+1181320992929361993
+Author: ServerGuardian
+Content: Processing channel: Pis
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\discord-announcements`
+
+Total messages retrieved thus far: 0
+Number of attachments: 0
+
+
+1181320995169128478
+Author: ServerGuardian
+Content: Processing channel: Umiejętności
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\discord-announcements`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181321015045918721
+Author: ServerGuardian
+Content: Processing channel: ogólny
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 91
+Number of attachments: 0
+
+
+1181321017898057909
+Author: ServerGuardian
+Content: Processing channel: Zdarzenia
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 22
+Number of attachments: 0
+
+
+1181321019605139599
+Author: ServerGuardian
+Content: Processing channel: Najbliższe podróże
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 0
+Number of attachments: 0
+
+
+1181321021488373872
+Author: ServerGuardian
+Content: Processing channel: Partia KO
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 26
+Number of attachments: 0
+
+
+1181321023853973594
+Author: ServerGuardian
+Content: Processing channel: Thread1
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181321026185998447
+Author: ServerGuardian
+Content: Processing channel: Wspinaczka
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181321028010524683
+Author: ServerGuardian
+Content: Processing channel: inspiracje
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 0
+Number of attachments: 0
+
+
+1181321032074788874
+Author: ServerGuardian
+Content: Processing channel: Sozologia (dla zjebków eko)
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 41
+Number of attachments: 0
+
+
+1181321050777198663
+Author: ServerGuardian
+Content: Processing channel: Trzecia droga
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 13
+Number of attachments: 0
+
+
+1181321052882751608
+Author: ServerGuardian
+Content: Processing channel: Pis
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 15
+Number of attachments: 0
+
+
+1181321055197995068
+Author: ServerGuardian
+Content: Processing channel: Umiejętności
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181322258124390481
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181322259370102845
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181322261786005635
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 5
+Number of attachments: 0
+
+
+1181322264315170938
+Author: ServerGuardian
+Content: Processing channel: ogólny
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 100
+Number of attachments: 0
+
+
+1181322266320056381
+Author: ServerGuardian
+Content: Processing channel: Thread1
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181322501561798748
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181322503138852945
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181322504472637501
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 0
+Number of attachments: 0
+
+
+1181322505449906287
+Author: ServerGuardian
+Content: Processing channel: ogólny
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 110
+Number of attachments: 0
+
+
+1181322507790332026
+Author: ServerGuardian
+Content: Processing channel: Thread1
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181322742721695946
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181322744063860801
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181322745418625034
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 5
+Number of attachments: 0
+
+
+1181322747620638772
+Author: ServerGuardian
+Content: Processing channel: ogólny
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 100
+Number of attachments: 0
+
+
+1181322749818445854
+Author: ServerGuardian
+Content: Processing channel: Thread1
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181324827647279106
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181324829782200441
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181324832189726850
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 5
+Number of attachments: 0
+
+
+1181324840804814848
+Author: ServerGuardian
+Content: Processing channel: ogólny
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 120
+Number of attachments: 0
+
+
+1181325142085873666
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181325144354983976
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181325146267590656
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 5
+Number of attachments: 0
+
+
+1181325148150841426
+Author: ServerGuardian
+Content: Processing channel: ogólny
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 124
+Number of attachments: 0
+
+
+1181325152227709039
+Author: ServerGuardian
+Content: Processing channel: Thread2
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181325953062928434
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181325955797626930
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181325957617950831
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 5
+Number of attachments: 0
+
+
+1181325960398766102
+Author: ServerGuardian
+Content: Processing channel: ogólny
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 129
+Number of attachments: 0
+
+
+1181325964119134378
+Author: ServerGuardian
+Content: Processing channel: Thread2
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181325966103035988
+Author: ServerGuardian
+Content: Processing channel: Thread1
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181325968653176863
+Author: ServerGuardian
+Content: Processing channel: Thread2
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181326387282448494
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181326393615863828
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181326395872379041
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 5
+Number of attachments: 0
+
+
+1181326397843722261
+Author: ServerGuardian
+Content: Processing channel: ogólny
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot`
+
+Total messages retrieved thus far: 136
+Number of attachments: 0
+
+
+1181326401681498194
+Author: ServerGuardian
+Content: Processing channel: Thread2
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181326403971579914
+Author: ServerGuardian
+Content: Processing channel: Thread1
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181326409755525240
+Author: ServerGuardian
+Content: Processing channel: Thread2
+`C:\Users\mineo\Desktop\ServerGuardian\src\main\resources\ServerGuardianBot\ogólny`
+
+Total messages retrieved thus far: 4
+Number of attachments: 0
+
+
+1181332901799927929
+Author: ServerGuardian
+Content: Processing channel: rules
+`C:\Users\mineo\Desktop\ServerGuardian\backup\ServerGuardianBot`
+
+Total messages retrieved thus far: 1
+Number of attachments: 0
+
+
+1181332903725125833
+Author: ServerGuardian
+Content: Processing channel: moderator-only
+`C:\Users\mineo\Desktop\ServerGuardian\backup\ServerGuardianBot`
+
+Total messages retrieved thus far: 2
+Number of attachments: 0
+
+
+1181332905528655892
+Author: ServerGuardian
+Content: Processing channel: discord-announcements
+`C:\Users\mineo\Desktop\ServerGuardian\backup\ServerGuardianBot`
+
+Total messages retrieved thus far: 0
+Number of attachments: 0
+
+
